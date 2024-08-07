@@ -1,4 +1,4 @@
-# Projeto Locomocao de Estudantes
+# Projeto Locomoção de Estudantes
 
 ## Problema
 Atualmente, muitos estudantes enfrentam problemas para achar transporte que seja acessível, econômico e seguro, especialmente em áreas com poucas opções de transporte público. Isso causa atrasos, altos gastos com aplicativos de transporte e dificuldades para quem não tem carro próprio. Alguns estudantes ficam submetidos a muitas horas no transporte público, enquanto outros gastam muito com combustível indo para a universidade toda semana.
